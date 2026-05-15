@@ -4,4 +4,4 @@
 Pedro Henrique de Castro Cunha Quedevez
 
 # Tema
-Avaliação Experimental do Map-Updater do CARMEN-LCAD para Life-long Mapping Baseado em LiDAR
+Integração do LT-mapper ao CARMEN-LCAD para Life-long Mapping Baseado em LiDAR
